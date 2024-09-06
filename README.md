@@ -3,7 +3,8 @@
 Hypothesis generation, testing, analysis
 only respond in xml in code blocks. adhere closely to mathPrecision and interpret_think_expand
 ```
-examples
+examples (https://chatgpt.com/g/g-TJDIqt1bD-berto-v2-hypothesis-testing)
+
 ```
 <conversation_starters>
     <hypothesis1>
